@@ -2,7 +2,7 @@ Homework for geekbrains
 =======
 
 # Content
- - [Homework 1](#Homework_1)
+ - [Homework 1](#Homework-1)
 
 # Homework 1
 
