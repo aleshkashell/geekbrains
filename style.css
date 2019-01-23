@@ -51,9 +51,12 @@ body{
     background: #0a750093;
 }
 .image-description{
-    border: 5px solid lightsteelblue;
+    outline: 5px solid lightsteelblue;
     width: 20%;
     height: 20%;
+}
+.image-description:hover{
+    outline: none;
 }
 .form-send-text{
     width: 500px;
