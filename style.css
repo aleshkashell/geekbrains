@@ -75,11 +75,16 @@ body{
     
 }
 .description-table{
-		border:1px dashed #C0C0C0;
-		border-collapse:collapse;
-		padding:5px;
+    border:1px dashed #C0C0C0;
+    border-collapse:collapse;
+    padding:5px;
 }
 .description-table td {
     border:1px dashed #C0C0C0;
     padding:5px;
+}
+.description-paragraph::first-letter{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
