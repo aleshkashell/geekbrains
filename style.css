@@ -71,3 +71,12 @@ body{
 .footer{
     
 }
+.description-table{
+		border:1px dashed #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+}
+.description-table td {
+    border:1px dashed #C0C0C0;
+    padding:5px;
+}
