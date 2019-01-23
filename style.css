@@ -9,6 +9,9 @@ body{
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
 }
+.menu-link:hover{
+    color: darkorchid;
+}
 .head-description{
     color: black;
     font-size: 18px;
