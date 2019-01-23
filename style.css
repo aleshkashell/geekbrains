@@ -83,6 +83,9 @@ body{
     border:1px dashed #C0C0C0;
     padding:5px;
 }
+.description-table tbody tr:first-child{
+    height: 50px;
+}
 .description-paragraph::first-letter{
     font-size: 18px;
     font-weight: 600;
