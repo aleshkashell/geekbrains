@@ -71,6 +71,7 @@ body{
 }
 .logotip{
     width: 50px;
+    margin-left: 50px;
 }
 .footer{
     border-top: 1px solid #000;
