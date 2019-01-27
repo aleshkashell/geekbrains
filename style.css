@@ -72,7 +72,7 @@ body{
     width: 50px;
 }
 .footer{
-    
+    border-top: 1px solid #000;
 }
 .description-table{
     border:1px dashed #C0C0C0;
@@ -90,4 +90,12 @@ body{
     font-size: 18px;
     font-weight: 600;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    width: 600 px;
+    justify-content: center;
+    /* margin: 0 auto; */
+}
+.header{
+    border-bottom: 1px solid #000;
 }
