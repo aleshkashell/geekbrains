@@ -3,6 +3,7 @@ body{
 }
 .menu-list{
     list-style-type: none;
+    width: 100px;
 }
 .menu-link{
     color: darkcyan;
@@ -99,4 +100,9 @@ body{
 .header{
     height: 50px;
     border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+}
+.main-menu{
+    display: flex;
 }
