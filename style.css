@@ -97,5 +97,6 @@ body{
   /* background-color: powderblue; */
 }
 .header{
+    height: 50px;
     border-bottom: 1px solid #000;
 }
