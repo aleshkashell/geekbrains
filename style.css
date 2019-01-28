@@ -52,12 +52,12 @@ body{
     background: #0a750093;
 }
 .image-description{
-    outline: 5px solid lightsteelblue;
-    width: 20%;
-    height: 20%;
+    border: 5px solid lightsteelblue;
+    height: 200px;
+    margin-right: 20px;
 }
 .image-description:hover{
-    outline: none;
+    border: 5px solid transparent;
 }
 .form-send-text{
     width: 500px;
@@ -113,4 +113,29 @@ body{
 }
 .main-menu{
     display: flex;
+}
+.product-description{
+    display: flex;
+}
+.price{
+    display: flex;
+    align-items: center; 
+}
+.button_buy{
+    height: 40px;
+    width: 100px;
+    margin-left: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #757575;
+    color: white;
+}
+.button_buy:hover{
+    background-color: #92ca92;
+}
+.button_buy:active{
+    background-color: rgb(47, 235, 0);
+}
+.price-count{
+    margin-left: 10px;
 }
