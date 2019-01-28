@@ -139,3 +139,17 @@ body{
 .price-count{
     margin-left: 10px;
 }
+.catalog{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.block{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: 25px;
+}
+.caption{
+    display: block;
+}
