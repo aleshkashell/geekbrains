@@ -74,8 +74,8 @@ body{
     margin-left: 50px;
 }
 .footer{
-    border-top: 1px solid #000;
-    background-color: #dfdfdf;
+    border-top: 1px solid #e6a100;
+    background-color: #f0e4c8;
     height: 50px;
 }
 .footer-copyright{
@@ -107,10 +107,11 @@ body{
 }
 .header{
     height: 50px;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #e6a100;
     display: flex;
     justify-content: space-between;
     background-image: url("img/header-background.png");
+    background-color: #f0e4c8;
 }
 .main-menu{
     display: flex;
