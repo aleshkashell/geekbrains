@@ -75,6 +75,13 @@ body{
 }
 .footer{
     border-top: 1px solid #000;
+    background-color: #dfdfdf;
+    height: 50px;
+}
+.footer-copyright{
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 5px;
 }
 .description-table{
     border:1px dashed #C0C0C0;
